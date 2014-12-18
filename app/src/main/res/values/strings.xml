@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CreandoMenuContextual</string>
+
+    <!-- listView -->
+    <string-array name="elementos">
+        <item>Adapter</item>
+        <item>Listas fijas. ListView I</item>
+        <item>Listas fijas. ListView II</item>
+        <item>Ejemplo practico: Activity Class y Fragment Class</item>
+        <item>Jugando con Google Maps en Android</item>
+    </string-array>
+
+    <!-- ContextMenu -->
+    <string name="desAnd">Ir a: Desarrollando Android</string>
+    <string name="gitHub">Ir a: GitHub</string>
+    <string name="contacto">Ir a: Contacto</string>
+
+    <!-- Email -->
+    <string name="correo">"desarrollando.android2014@gmail.com</string>
+    <string name="dudas">"Dudas en el ejercicio práctico: Activity Class e Intent Class"</string>
+    <string name="enviar">"Enviar email..."</string>
+
+</resources>
